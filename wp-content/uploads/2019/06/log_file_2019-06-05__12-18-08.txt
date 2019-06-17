@@ -1,0 +1,243 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = /var/www/html/wordpress/wp-content/themes/corporate-pro/sample.xml
+Widget file = /var/www/html/wordpress/wp-content/themes/corporate-pro/widgets.wie
+Customizer file = /var/www/html/wordpress/wp-content/themes/corporate-pro/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "gutenberg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "gutenberg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "gutenberg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "gutenberg" (Media)
+
+
+---Importing widgets---
+Header Right : 
+
+Custom HTML - No Title - Widget already exists
+
+Primary Sidebar : 
+
+Genesis - eNews Extended - Join our newsletter - Widget already exists
+Simple Social Icons - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Before Header : 
+
+Custom HTML - No Title - Widget already exists
+Simple Social Icons - No Title - Widget already exists
+
+Before Footer : 
+
+Custom HTML - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+
+Footer Credits : 
+
+Simple Social Icons - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Front Page 1 : 
+
+Slider - Slider - Widget already exists
+
+Front Page 2 : 
+
+Gallery - No Title - Widget already exists
+
+Front Page 3 : 
+
+Text - Give your website a professional look with Corporate Pro. - Widget already exists
+Video - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+Icon - Expert consulting - Widget already exists
+Icon - Digital strategy - Widget already exists
+Icon - AMP Development - Widget already exists
+Icon - Product design - Widget already exists
+
+Front Page 4 : 
+
+Image - No Title - Widget already exists
+Text - We develop digital strategies for your online success. - Widget already exists
+
+Front Page 5 : 
+
+Custom HTML - No Title - Widget already exists
+
+Front Page 6 : 
+
+Custom HTML - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+
+Front Page 7 : 
+
+Custom HTML - Simple pricing - Widget already exists
+Testimonials - No Title - Widget already exists
+
+Front Page 8 : 
+
+Genesis - Featured Posts - Latest news - Widget already exists
+
+Front Page 9 : 
+
+Image - No Title - Widget already exists
+Genesis - eNews Extended - Join our weekly newsletter - Widget already exists
+
+Footer 1 : 
+
+Custom HTML - Corporate Pro - Widget already exists
+
+Footer 2 : 
+
+Navigation Menu - Sitemap - Imported
+Navigation Menu - Company - Imported
+
+Footer 3 : 
+
+Genesis - eNews Extended - Newsletter - Widget already exists
+
+After Entry : 
+
+Genesis - eNews Extended - Subscribe to our newsletter - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
